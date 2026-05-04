@@ -1,0 +1,13 @@
+{
+  "name": "nanobanana-app",
+  "version": "1.0.0",
+  "description": "GPT NanoBanana AI出图 - 手机APP版",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo '上传到AppsGeyser打包'"
+  },
+  "keywords": ["ai", "image-generation", "pwa"],
+  "author": "NanoBanana",
+  "license": "MIT"
+}
