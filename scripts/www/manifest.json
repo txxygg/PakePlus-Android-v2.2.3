@@ -1,0 +1,26 @@
+{
+  "name": "GPT NanoBanana AI出图",
+  "short_name": "NanoBanana",
+  "description": "AI智能图像生成应用 - 手机版",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08101f",
+  "theme_color": "#5addff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><defs><linearGradient id='g1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='%235addff'/><stop offset='100%' stop-color='%238b7bff'/></linearGradient></defs><rect width='512' height='512' rx='100' fill='%230d1730'/><text x='256' y='280' text-anchor='middle' font-size='200' font-weight='bold' fill='url(%23g1)'>N</text><circle cx='380' cy='150' r='60' fill='%238b7bff' opacity='0.8'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='g2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='%235addff'/><stop offset='100%' stop-color='%238b7bff'/></linearGradient></defs><rect width='192' height='192' rx='40' fill='%230d1730'/><text x='96' y='110' text-anchor='middle' font-size='80' font-weight='bold' fill='url(%23g2)'>N</text><circle cx='145' cy='55' r='22' fill='%238b7bff' opacity='0.8'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["entertainment", "productivity", "utilities"],
+  "lang": "zh-CN"
+}
